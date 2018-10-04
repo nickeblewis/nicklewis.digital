@@ -1,6 +1,6 @@
 const base = {
   name: 'Nick Lewis Digital',
-  url: 'https://github.com/greglobinski/gatsby-starter-kit'
+  url: 'https://nicklewis.digital'
 };
 
 const config = {
@@ -9,7 +9,7 @@ const config = {
   siteTitlePostfix: ` - ${base.name}`,
   siteDescription: `${
     base.name
-  } is a series starters: Minimal, Equipped, Themed, Website, Blog.`,
+  } photography, web development, blog.`,
   siteImage: 'preview.jpg',
   siteLanguage: 'en',
 
