@@ -1,8 +1,11 @@
 ---
 title: Health matters more than ever
 subTitle: Today I received worrying news about my health that has made me think a lot about my basic priorities. Life has already dealt me a blow when I suffered from final-stage renal failure about a decade ago. We fixed that, thanks to my wonderful Dad donating one of his. I now have another scare to deal with but I will fix that too!
-category: health
 cover: images/health.jpeg
+categories:
+  - journal
+tags:
+  - health
 ---
 
 I sit here at my laptop, now more concious than ever of my sedentary lifestyle with the letter from the Doctor sat to the side. My focus today is shot to bits because the letter reveals that a routine blood test I had recently,shows a higher than usual blood-sugar level. This means I am in what is known as "Pre-Diabetes", such a blow but in some ways I am not surprised, given my renal background and that I am at risk of so many other things now than I ever was before. To top it all, I spend so much time sat at a desk. I often drive to the shops rather than walk. It's ironic because I fear time, that I don't have enough of it, I am just so busy. However am I really? That is the topic I want to discuss in this blog entry. 

@@ -2,7 +2,11 @@
 title: North Wales from Conwy to Beaumaris
 subTitle: Over the weekend we travelled up to North Wales to take a recce between Conwy and Beaumaris in Anglesey. Taking in a number of places along the way.
 cover: "images/NIC_1416-3.jpg"
-category: "photography"
+categories:
+  - photography
+tags:
+  - wales
+  - snowdonia
 ---
 
 My Wife and our friends are all involved with the local Scout Group here in Farnborough and every year they take them on a summer camp and have been to various locations. This year they will be camping in Snowdonia. So we (several of us) decided to book a weekend up there towards the end of last year which just so happened to be yesterday!

@@ -1,8 +1,14 @@
 ---
 title: Badbury Rings from the air
 subTitle: My parents live down in Dorset and one of the local attractions is the fascinating Badbury Rings which is always well worth a visit any time of the year!
-category: drone
 cover: images/DJI_0073.jpg
+categories:
+  - photography
+tags:
+  - drone
+  - dorset
+  - badbury
+  - aerial
 ---
 
 `youtube:https://www.youtube.com/embed/7PVOS6NxcgY`

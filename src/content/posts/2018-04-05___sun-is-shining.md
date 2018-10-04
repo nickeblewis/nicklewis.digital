@@ -1,8 +1,12 @@
 ---
 title: The Sun has got his hat on
 subTitle: Sunny days have been few and far between around these parts and today is a refreshing change
-category: "photography"
 cover: "images/IMG_1898.jpg"
+categories:
+  - photography
+tags:
+  - summer
+  - farnborough
 ---
 
 I used to take a morning walk each day until recently when the weather has been so nasty. We have a glorious day today and I 

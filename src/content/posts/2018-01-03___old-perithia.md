@@ -2,6 +2,10 @@
 title: Old Perithia, Corfu
 subTitle: The place where time stood still in the mountains of Corfu. We take you on a journey into the heart of the island.
 cover: "images/nic_1139.jpg"
+categories:
+  - photography
+tags:
+  - corfu
 ---
 ![Where time stood still, Old Perithia](images/NIC_1113.jpg)
 

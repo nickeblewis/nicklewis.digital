@@ -4,8 +4,13 @@ subTitle: >-
   Since I began working as a remote freelance developer I have been questioning
   why I rent an office as surely there must be other alternatives to where one
   can park their bum and laptop for the day?
-category: remote
 cover: images/134f604.jpg
+categories:
+  - journal
+tags:
+  - remote
+  - freelancing
+  - contracting
 ---
 I rent an office but quite often I just work from home or wherever I choose, that I’ve begun to question the real need for having the office. So watch this space as I wrestle with a decision ultimately. I may ditch it in favour of a smaller desk back home and a membership within a local co-working space. Having said that, the rental costs aren’t bad but there are now cheaper options available. 
 

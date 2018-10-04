@@ -1,8 +1,12 @@
 ---
 title: Problems with Facebook comment plugin
 subTitle: I am looking for a little bit of help, as I am mystified by this message I keep getting?!
-category: "development"
 cover: "images/fb.png"
+categories:
+  - development
+tags:
+  - facebook
+  - gatsby
 ---
 
 I have been having some problems with the Facebook Comment plugin today. Most of the time when writing a comment below and submitting it, I would see an error message appear stating:

@@ -1,8 +1,14 @@
 ---
 title: Wisley Exotic Gardens
 subTitle: In this post I get really excited about the new Exotic Garden section at RHS Wisley in Surrey. We had gone to follow the sculpture trail but got distracted by this incredible collection of exotic plants from the tropics!
-category: photography
 cover: "images/_DSC0696.jpg"
+categories:
+  - photography
+tags:
+  - gardens
+  - surrey
+  - RHS
+  - wisley
 ---
 
 The staff at RHS Wisley are forever surprising us, every time we go and we go quite often, we see something new. The seasons help of course, things change colour, things die off and then they come back to life. The beauty of nature is amazing in itself but couple that together with a team of people who really know what they are doing and it never ceases to impress. New ideas are introduced every week and some gardens once past their best get tidied up and replaced.

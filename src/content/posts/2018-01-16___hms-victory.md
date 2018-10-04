@@ -2,6 +2,11 @@
 title: Victory
 subTitle: Following on from last week, some more Pompey, this time, the Historic Dockyard
 cover: "images/NIC_0913.jpg"
+categories:
+  - photography
+tags:
+  - hampshire
+  - portsmouth
 ---
 ![HMS Victory](images/NIC_0913.jpg)
 

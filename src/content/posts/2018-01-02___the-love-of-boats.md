@@ -2,6 +2,10 @@
 title: The love of boats
 subTitle: 'Every photographer has their favourite topic and for me, I love boats'
 cover: "images/nic_0934.jpg"
+categories:
+  - photography
+tags:
+  - corfu
 ---
 I can recall when I first became interested in photography that I would borrow my Dads camera to photograph whatever we found whilst on holiday. I think my love for boats came about as a result of simply spending a lot of time in Cornwall as a child. Once we started to go further afield to the Mediterranean, the interest just grew and grew.
 

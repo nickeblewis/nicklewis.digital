@@ -1,8 +1,11 @@
 ---
 title: The Hurtwood
 subTitle: "A stirring walk in this stunning Surrey Hills woodland certainly got the wordsmith in me engaged with my environment!"
-category: "writing"
 cover: "images/IMG_1999.jpg"
+categories:
+  - poetry
+tags:
+  - surrey
 ---
 
 ![The meandering path](images/IMG_1999.jpg)

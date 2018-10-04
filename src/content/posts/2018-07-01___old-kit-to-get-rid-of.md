@@ -1,8 +1,12 @@
 ---
 title: Old kit to get rid of
 subTitle: The time has come to go through all of the old clutter that I have, what can I sell, give away or even throw away!
-category: journal
 cover: "images/DSC00264.jpg"
+categories:
+  - photography
+tags:
+  - camera gear
+  - for sale
 ---
 
 ![](images/DSC00264.jpg)

@@ -2,6 +2,11 @@
 title: Carew Castle, Pembrokeshire
 subTitle: Drone photography has opened up a whole new game for us photographers, as I explored Pembrokeshire
 cover: "images/18836783_10154724210808041_3114527636023853491_o.jpg"
+categories:
+  - photography
+tags:
+  - wales
+  - pembrokeshire
 ---
 ![Carew Castle from the river](images/18836783_10154724210808041_3114527636023853491_o.jpg)
 

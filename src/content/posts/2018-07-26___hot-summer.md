@@ -1,8 +1,11 @@
 ---
 title: Hot Summer and a new camera
 subTitle: No sign of rain here in the South of England... I put my new Sony A7Riii to good use... time to get this blog back on track!
-category: journal
 cover: "images/icon.png"
+categories:
+  - journal
+tags:
+  - hot summer
 ---
 
 I quite literally have very little idea when we last had rain, proper rain that is and with temperatures hitting the 30s here in sunny England (Hampshire in my case), there seems to be no let up. The forecast often predicting storms but none (around here at least) have presented themselves. In the meantime other parts of the country and Europe have seen some of the worst wild fires in living memory. If you didn't believe in climate change before then perhaps you should think again? We are seeing drastic variatons of weather and there is little doubt that when this dry period ends and that really is "when?" - will we see some of the worst rain we've seen in a long time? I may be sounding pessimistic? You'd be right to think that because we need to change our ways.

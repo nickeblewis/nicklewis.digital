@@ -1,8 +1,11 @@
 ---
 title: On Location | Episode 1 | Frensham
 subTitle: Tonight the weather was beautiful, so I popped out with the Mavic Pro and shot some footage across Frensham and edited it down to a very short 1 minute video
-category: drone
 cover: "images/mavic-pro-big.jpg"
+categories:
+  - photography
+tags:
+  - drone
 ---
 
 `youtube:https://www.youtube.com/embed/nkFKltnn1G4`

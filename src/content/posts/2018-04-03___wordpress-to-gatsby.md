@@ -1,8 +1,12 @@
 ---
 title: Wordpress to Gatsby
 subTitle: I have been blogging with Wordpress for years but I needed a change to bring my own site in line with the work that I am doing now...
-category: "announcements"
 cover: "images/screen-shot.png"
+categories:
+  - development
+tags:
+  - wordpress
+  - gatsby
 ---
 
 ![screenshot of old site](images/screen-shot.png)

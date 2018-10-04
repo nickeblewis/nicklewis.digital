@@ -1,8 +1,11 @@
 ---
 title: Finding time
 subTitle: I do at times enjoy writing the odd philosophical piece about topics that we don't fully understand or have answers to. In this case, I ponder time and who really owns our moments in time.
-category: journal
 cover: "images/icon.png"
+categories:
+  - journal
+tags:
+  - reflective
 ---
 
 Time is precious. Time is confusing. Time is good. Time is refreshing. Time is frustrating. Time is never enough. Time can sometimes be too much. Time is arbitrary. Time is infinite yet so finite. 

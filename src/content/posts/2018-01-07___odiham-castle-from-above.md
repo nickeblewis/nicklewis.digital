@@ -2,6 +2,11 @@
 title: Odiham Castle from above
 subTitle: I started to explore more of my local area with the drone and found some interesting new perspectives
 cover: "images/18527209_10154684580863041_4397536780916403617_o.jpg"
+categories:
+  - photography
+tags:
+  - hampshire
+  - odiham
 ---
 ![Carew Castle from the river](images/18527209_10154684580863041_4397536780916403617_o.jpg)
 
