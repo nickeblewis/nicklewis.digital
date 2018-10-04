@@ -111,7 +111,7 @@ const PostTemplate = props => {
             <Comments
               slug={slug}
               siteUrl={siteUrl}
-              appId={process.env.GATSBY_FACEBOOK_APPID}
+              appId={180890019477367}
               icons={{ message: MessageIcon }}
             />
           </Article>
