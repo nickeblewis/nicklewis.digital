@@ -1,11 +1,11 @@
 const base = {
-  name: 'Gatsby Starter Kit',
+  name: 'Nick Lewis Digital',
   url: 'https://github.com/greglobinski/gatsby-starter-kit'
 };
 
 const config = {
   /* meta tags */
-  siteTitle: `${base.name} - a series of GatsbyJS starters`,
+  siteTitle: `${base.name} - web, photography and content`,
   siteTitlePostfix: ` - ${base.name}`,
   siteDescription: `${
     base.name
@@ -15,7 +15,7 @@ const config = {
 
   /* site header */
   headerTitle: `${base.name}`,
-  headerSubTitle: 'a series of starters for GatsbyJS',
+  headerSubTitle: 'web, photography and content',
 
   /* url */
   siteUrl: base.url,

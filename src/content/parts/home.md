@@ -1,10 +1,10 @@
 ---
 name: home
 preTitle: Welcome to
-title: GatsbyJS Starter Kit
-subTitle: a set of starters for Gatsby.js
+title: Nick Lewis Digital
+subTitle: helping people create fantastic online content
 ---
 
-It’s a set of starters for Gatsby.js: Minimal, Equipped, Themed, Website, Blog, Classy Docs, Clean Diary and Side Blog.
+Hello there and I am delighted to welcome you to this website where you can find out more about our passion for creating the best content for the web.
 
-Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.
+I am something of a hybrid creator due to my background in web development and photography. I am extremely passionate about them both and how they can be used in combination to create engaging content. 
