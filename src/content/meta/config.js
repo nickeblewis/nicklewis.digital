@@ -23,7 +23,7 @@ const config = {
   // pathPrefix: '',
 
   // author
-  authorName: 'greg lobinski'
+  authorName: 'nick lewis'
 };
 
 module.exports = config;
