@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Greg Lobinski** - I'm a front-end web developer. Follow me at [@greglobinski](https://twitter.com/greglobinski) if you want to be informed about new articles. I'm open to any suggestions from you. Do not hesitate to tell me what you think.
+**Nick Lewis** - I'm a front-end web developer, photographer, writer and content creator. Follow me at [@nicklewis](https://twitter.com/nicklewis) if you want to be informed about new articles. I am constantly on the look out for new material and inspiration!
