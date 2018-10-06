@@ -1,6 +1,6 @@
 ---
 title: Hampshire Harvest Festival 2018
-category:
+categories:
 - photography
 tags:
 - winchester
