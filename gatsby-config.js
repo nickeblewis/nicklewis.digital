@@ -88,8 +88,12 @@ module.exports = {
         trackingId: 'UA-159000-29',
       },
     },
-    `gatsby-plugin-emotion`,
-    `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        output: `/some-other-sitemap.xml`,
+      }
+    },
     {
       resolve: `gatsby-plugin-feed`,
       options: {
